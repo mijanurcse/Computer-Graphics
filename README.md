@@ -1,2 +1,2 @@
 
-https://mijanurcse.github.io/Computer-Graphics/
+https://mijanurcse.github.io/comgraphics/
